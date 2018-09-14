@@ -7,3 +7,6 @@ Initial wireframes
 
 
 <img width="861" alt="screen shot 2018-07-13 at 3 36 20 pm" src="https://user-images.githubusercontent.com/29130101/45570492-f00b1800-b830-11e8-902a-cb41bce5f99a.png">
+
+![classdiagram1](https://user-images.githubusercontent.com/29130101/45570711-a7a02a00-b831-11e8-98c3-2125592c2546.png)
+
